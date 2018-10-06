@@ -1,0 +1,20 @@
+{
+  "name": "regexpr",
+  "version": "1.0.0",
+  "description": "A regexpr collection",
+  "main": "./dist/regexpr.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "regexpr",
+    "collection"
+  ],
+  "author": "Luigi Senzamici (luigisenzamici@gmail.com)",
+  "license": "MIT"
+}
