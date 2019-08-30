@@ -1,6 +1,6 @@
 {
   "name": "@tspower/regexpr",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A regexpr collection",
   "main": "./lib/regexpr.js",
   "repository": {
