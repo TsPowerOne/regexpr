@@ -14,6 +14,9 @@
 8 - negative
 9 - genericPhoneNumber      
 
+##Documentation
+Detailed documentation [here](https://tspowerone.github.io/regexpr/)
+
 ## Install
 `npm i @tspower/regexpr`
 
