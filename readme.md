@@ -1,9 +1,9 @@
 # Regexpr        ![alt text](https://ppbusinessproject.visualstudio.com/TSPowerOne/_apis/build/status/TsPowerOne.regexpr?branchName=master)
 
 
-> Simple Collection of regular expression!
+> Simple Collection of regular expression!      
 
-##regexpr available:      
+## regexpr available:      
 1 - email       
 2 - cap (italian)       
 3 - number      
@@ -14,8 +14,8 @@
 8 - negative
 9 - genericPhoneNumber      
 
-##Documentation
-Detailed documentation [here](https://tspowerone.github.io/regexpr/)
+## Documentation     
+Detailed documentation [here](https://tspowerone.github.io/regexpr/)        
 
 ## Install
 `npm i @tspower/regexpr`

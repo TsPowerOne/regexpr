@@ -1,10 +1,10 @@
 {
   "name": "@tspower/regexpr",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "A regexpr collection",
   "main": "./lib/regexpr.js",
   "repository": {
-    "url": "git+https://github.com/TsPowerOne/RegExpr.git",
+    "url": "git+https://github.com/TsPowerOne/RegExpr.git"
   },
   "directories": {
     "doc": "doc",
