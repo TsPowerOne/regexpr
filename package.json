@@ -1,6 +1,10 @@
 {
   "name": "@tspower/regexpr",
+<<<<<<< HEAD
   "version": "1.0.3",
+=======
+  "version": "1.2.0",
+>>>>>>> 6c2bf665566b55280bcd6374385e8a447920b70b
   "description": "A regexpr collection",
   "main": "./lib/regexpr.js",
   "repository": {
@@ -15,6 +19,10 @@
     "setup": "npm install",
     "build": "tsc",
     "build-watch": "tsc --watch",
+<<<<<<< HEAD
+=======
+    "test-console": "mocha --require ts-node/register test/**/*.ts",
+>>>>>>> 6c2bf665566b55280bcd6374385e8a447920b70b
     "test-only": "mocha --require ts-node/register test/**/*.ts --reporter mocha-junit-reporter",
     "pretest": "npm run build",
     "test": "npm run test-only",
@@ -27,13 +35,20 @@
   "author": "Luigi Senzamici (luigisenzamici@gmail.com)",
   "license": "MIT",
   "devDependencies": {
-    "@types/chai": "^4.1.6",
-    "@types/mocha": "^5.2.5",
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^5.2.7",
     "chai": "^4.2.0",
+<<<<<<< HEAD
     "mocha": "^5.2.0",
     "ts-node": "^7.0.1",
     "typedoc": "^0.15.0",
     "typescript": "^3.1.1",
+=======
+    "mocha": "^6.2.0",
+    "ts-node": "^8.3.0",
+    "typedoc": "^0.15.0",
+    "typescript": "^3.6.2",
+>>>>>>> 6c2bf665566b55280bcd6374385e8a447920b70b
     "mocha-junit-reporter": "^1.23.1"
   },
   "bugs": {
